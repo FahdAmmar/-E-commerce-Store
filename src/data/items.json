@@ -1,0 +1,116 @@
+[
+    {
+        "id": 1,
+        "name": "clothes",
+        "imgUrl": "/img/a1.png",
+        "price": "100"
+    },
+    {
+        "id": 2,
+        "name": "clothes",
+        "imgUrl": "/img/a2.png",
+        "price": "90"
+    },
+    {
+        "id": 3,
+        "name": "clothes",
+        "imgUrl": "/img/a3.png",
+        "price": "120"
+    },
+    {
+        "id": 4,
+        "name": "clothes",
+        "imgUrl": "/img/a4.png",
+        "price": "70"
+    },
+    {
+        "id": 5,
+        "name": "clothes",
+        "imgUrl": "/img/a5.png",
+        "price": "150"
+    },
+    {
+        "id": 6,
+        "name": "clothes",
+        "imgUrl": "/img/a6.png",
+        "price": "88"
+    },
+    {
+        "id": 7,
+        "name": "clothes",
+        "imgUrl": "/img/a7.png",
+        "price": "110"
+    },
+    {
+        "id": 8,
+        "name": "clothes",
+        "imgUrl": "/img/a8.png",
+        "price": "95"
+    },
+    {
+        "id": 9,
+        "name": "clothes",
+        "imgUrl": "/img/g1.png",
+        "price": "130"
+    },
+    {
+        "id": 10,
+        "name": "clothes",
+        "imgUrl": "/img/g2.png",
+        "price": "100"
+    },
+    {
+        "id": 11,
+        "name": "clothes",
+        "imgUrl": "/img/g3.png",
+        "price": "150"
+    },
+    {
+        "id": 12,
+        "name": "furniture",
+        "imgUrl": "/img/product-1.png",
+        "price": "240"
+    },
+    {
+        "id": 13,
+        "name": "furniture",
+        "imgUrl": "/img/product-2.png",
+        "price": "300"
+    },
+    {
+        "id": 14,
+        "name": "furniture",
+        "imgUrl": "/img/product-3.png",
+        "price": "180"
+    },
+    {
+        "id": 15,
+        "name": "furniture",
+        "imgUrl": "/img/sofa.png",
+        "price": "220"
+    },
+    {
+        "id": 16,
+        "name": "furniture",
+        "imgUrl": "/img/couch.png",
+        "price": "350"
+    },
+    {
+        "id": 17,
+        "name": "watches",
+        "imgUrl": "/img/ep1.png",
+        "price": "400"
+    },
+    {
+        "id": 18,
+        "name": "watches",
+        "imgUrl": "/img/ep2.png",
+        "price": "450"
+    },
+    {
+        "id": 19,
+        "name": "watches",
+        "imgUrl": "/img/ep3.png",
+        "price": "500"
+    }
+]
