@@ -91,7 +91,7 @@ const removeItem = (id: number) => {
         return currItems.filter(item => item.id !== id)
     })
 };
-
+//opiiopiopiopi
 
 
 
